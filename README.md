@@ -1,5 +1,7 @@
 # The Landscape — 3D Interactive Experience
 
+![3D Landscape Experience](public/3d-landing-site.png)
+
 An interactive 3D landscape built with React and Three.js. Five animated characters navigate procedurally generated terrain while you track their journeys through a real-time GPS tracker HUD. Jump into first-person POV mode to see the world through their eyes.
 
 ## Live Features
